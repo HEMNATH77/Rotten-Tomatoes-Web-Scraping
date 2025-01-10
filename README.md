@@ -1,4 +1,6 @@
-# Rotten-Tomatoes-Web-Scraping
+# Rotten Tomatoes
+
+
 # Rotten Tomatoes Best Movies Scraper
 
 This project is a Python-based web scraper that extracts information about the best movies of all time from the Rotten Tomatoes website. It uses libraries like `requests`, `BeautifulSoup`, and `pandas` to scrape and store movie data in a CSV file.
@@ -33,22 +35,7 @@ pip install requests beautifulsoup4 pandas
 
 ---
 
-## How to Run the Scraper
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/rotten-tomatoes-scraper.git
-   cd rotten-tomatoes-scraper
-   ```
-
-2. Run the Python script:
-   ```bash
-   python main.py
-   ```
-
-3. After execution, the extracted data will be saved in `Rotten Tomatoes.csv`.
-
----
 
 ## Code Overview
 
@@ -85,17 +72,7 @@ Below is an example of how the `Rotten Tomatoes.csv` file looks:
 
 ---
 
-## Limitations and Improvements
 
-- **Dynamic Content**: If Rotten Tomatoes changes its HTML structure, the scraper might fail.  
-- **Error Handling**: Add more robust error handling for missing or unexpected data.  
-- **Pagination Limit**: Currently, it fetches up to 301 movies, which can be increased by modifying the script.
-
----
-
-## Contributions
-
-Feel free to submit pull requests or issues for any bugs or enhancements! Contributions are always welcome.  
 
 ---
 
