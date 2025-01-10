@@ -19,7 +19,7 @@ This Python script scrapes the list of the best movies of all time from Rotten T
 
 2. Run the script in your Python environment:
    ```bash
-   python movie_scraper.py
+   main.py
    ```
 
 3. After execution, a CSV file named `Rotten Tomatoes.csv` will be created in your working directory containing the movie information.
