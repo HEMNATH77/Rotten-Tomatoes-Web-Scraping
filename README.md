@@ -70,13 +70,7 @@ Below is an example of how the `Rotten Tomatoes.csv` file looks:
 | Citizen Kane           | 1941 | 99%       | Orson Welles         |
 | ...                    | ...  | ...       | ...                  |
 
----
 
 
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
